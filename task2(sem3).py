@@ -7,13 +7,13 @@
 
 # from random import randint
 
-# N = int(input('Введите N: '))
-# min = int(input('Введите min: '))
-# max = int(input('Введите max: '))
+# n = int(input('Укажите размер списка: '))
+# min = int(input('Введите минимальное значение диапазона: '))
+# max = int(input('Введите максимальное значение диапазона: '))
 # result_list = []
 # my_list = []
 
-# for i in range(N):
+# for i in range(n):
 #     my_list.append(randint(min, max))
 # print(my_list)
 

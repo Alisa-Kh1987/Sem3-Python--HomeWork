@@ -2,16 +2,15 @@
 # Пример:
 # - [2, 3, 5, 9, 3] -> на нечётных позициях элементы 3 и 9, ответ: 12
 
-# from multiprocessing.sharedctypes import Value
 # from random import randint
 
-# N = int(input('Введите N: '))
-# min = int(input('Введите min: '))
-# max = int(input('Введите max: '))
+# n = int(input('Укажите размер списка: '))
+# min = int(input('Введите минимальное значение диапазона: '))
+# max = int(input('Введите максимальное значение диапазона: '))
 # summ_nums = 0
 # my_list = []
 
-# for i in range(N):
+# for i in range(n):
 #     my_list.append(randint(min, max))
 # print(my_list)
 
