@@ -10,11 +10,11 @@
 
 
 #Второй способ
-num = int(input('Укажите число в десятичной системе счисления: ')) 
-num_bin = ''
+# num = int(input('Укажите число в десятичной системе счисления: ')) 
+# num_bin = ''
  
-while num > 0:
-    num_bin = str(num % 2) + num_bin
-    num = num // 2
+# while num > 0:
+#     num_bin = str(num % 2) + num_bin
+#     num = num // 2
  
-print(num_bin)
+# print(num_bin)
